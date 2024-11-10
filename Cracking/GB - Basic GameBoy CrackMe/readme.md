@@ -31,6 +31,7 @@ ROM:03F7                 jr      good_boy
 Etant donné qu’ils sont au nombre de quatre, on peut se douter qu’il font la comparaison de nos direction (haut, bas, gauche, droite)
 Chaque comparaison se fait sur le "registre" (?) a.
 
+![Screenshot](https://github.com/sakusql/Root-Me-Solutions/blob/main/Cracking/GB%20-%20Basic%20GameBoy%20CrackMe/9da31c2dc5db6c24be4060f6a346c699_screenshot_27.png)
 
 Il nous suffit donc de poser 4 breakpoints et de jouer avec les différentes directions pour incrémenter/décrémenter "a" et valider les quatre comparaisons.
 
