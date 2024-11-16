@@ -24,12 +24,4 @@ N'oubliez pas, le chemin est tout aussi important que la destination !
 
 ## Bon courage à tous et amusez-vous bien !
 ```
-
-![Python](https://img.shields.io/badge/Python-3.8.6-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-17.0.2-blue)
-![Node.js](https://img.shields.io/badge/Node.js-14.15.4-green)
-![Docker](https://img.shields.io/badge/Docker-20.10.1-blue)
-![AWS](https://img.shields.io/badge/AWS-2.7.1-orange)
-
   </a>
